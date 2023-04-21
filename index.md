@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manual e-SUS APS (Pilotos)
+title: Manual e-SUS APS
 nav_order: 1
 has_children: false
 description: "Manual e-SUS APS"
@@ -19,7 +19,7 @@ e-SUS Atenção Primária à Saúde (e-SUS APS)
 PRONTUÁRIO ELETRÔNICO DO CIDADÃO (PEC)
 {: .fs-8 }
 {: .text-center }
-MANUAL DE USO PARA PILOTOS
+MANUAL DE USO
 {: .fs-8 }
 {: .text-center }
 <br>
